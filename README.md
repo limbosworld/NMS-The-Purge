@@ -59,5 +59,5 @@ If you are a long-time player or chronic restarter (like me), this will help you
 
 ### Screenshot:
 
-![alt text](https://github.com/limbosworld/NMS-SavesV2/blob/main/After%20The%20Purge.jpg)
+![alt text](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/main/Final-Interface.jpg)
 
