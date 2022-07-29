@@ -49,12 +49,14 @@ If you are a long-time player or chronic restarter (like me), this will help you
 9.  Copy and paste all code into the Raw JSON editor.
 10. Close the raw JSON window and save. Also, Click save file from the menu before closing the save editor.
 
-#### When you start your new save, you will now be on a very nice paradise planet with blue grass, sky and water. The portal will be flaged with a red final interface marker. Next to a portal is a simple base. When you activate the portal and enter, you will soon be in front of the Atlas and be able to pick your new galaxy. Put down a base computer and teleporter somewhere so you can travel back and forth between Euclid and your new galaxy.
+#### When you start your new save, you will now be on a very nice paradise planet with blue grass, sky and water. The portal will be flaged with a red final interface marker. Next to a portal is a simple base. When you activate the portal and enter, you will soon be in front of the Atlas and be able to pick your new galaxy. Put down a base computer and teleporter somewhere in your new galaxy so you can travel back and forth between Euclid and your new galaxy.
 
 #### 
 
 ### Note:
-* It took approx. 6 hours of playtime to get to this point in the save. However, if you want to have reset the in-game playtime to 0:00 to give you a better idea of your own progress from this point on though the game.
+* You have a freighter in orbit with a couple more ships in it. You can reset it to your liking.
+* You have 2 multitools.
+* If you want to reset the in-game playtime to 0:00 to give yourself a better idea of your own progress from this point on though the game, you can do it in the save editor. Open the Raw JSON editor and search for the line TotalPlayTime. Changing the number to something like 45 will show in game as starting at 0:00 - Do this at your own risk though.
 
 
 ### Screenshot:
