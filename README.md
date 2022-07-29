@@ -1,6 +1,6 @@
 # The Purge
 
-A save game file for normal mode players who want to skip most of the main mission quests which have been around (unchanged) for years and get straight to exploring, building and/or doing other quests like A Trace of Metal, Under A Rebel Star or various Expeditions.
+A save game file for normal mode players who want to skip most of the main missions which have been around (unchanged) for years and get straight to exploring, building and/or doing other quests like A Trace of Metal, Under A Rebel Star or other quests.
 
 ## Description
 
