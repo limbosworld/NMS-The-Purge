@@ -1,6 +1,6 @@
 # The Purge
 
-A save game file for normal mode players who want to skip most of the main missions which have been around (unchanged) for years and get straight to exploring, building and/or doing other quests like A Trace of Metal, Under A Rebel Star or other quests.
+A save game file for normal mode players who want to skip most of the main missions which have been around (unchanged) for years and get straight to exploring, building and/or doing other quests like A Trace of Metal, Under a Rebel Star or other quests.
 
 ## Description
 
@@ -46,7 +46,7 @@ If you are a long-time player or chronic restarter (like me), this will help you
 6.  Click Edit Raw JSON
 7.  Select all code and delete it
 8.  Open the JSON file you downloaded with a suitable editor like Sublime Text or Notepad++ 
-9.  Copy and paste all code into the save editor.
+9.  Copy and paste all code into the Raw JSON editor.
 10. Close the raw JSON window and save. Also, Click save file from the menu before closing the save editor.
 
 #### When you start your new save, you will now be on a very nice paradise planet with blue grass, sky and water. The portal will be flaged with a red final interface marker. Next to a portal is a simple base. When you activate the portal and enter, you will soon be in front of the Atlas and be able to pick your new galaxy. Put down a base computer and teleporter somewhere so you can travel back and forth between Euclid and your new galaxy.
@@ -54,7 +54,7 @@ If you are a long-time player or chronic restarter (like me), this will help you
 #### 
 
 ### Note:
-* It took approx. 6 hours of playtime to get to this point in the save. However, I have reset the in-game playtime to 0:00 to give you a better idea of your own progression though the game.
+* It took approx. 6 hours of playtime to get to this point in the save. However, if you want to have reset the in-game playtime to 0:00 to give you a better idea of your own progress from this point on though the game.
 
 
 ### Screenshot:
