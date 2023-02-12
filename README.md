@@ -33,14 +33,16 @@ If you are a long-time player or chronic restarter (like me), this will help you
     * Agricultural Research [Completed](https://nomanssky.fandom.com/wiki/Agricultural_Research)
 * Dreams of the Deep [Completed](https://nomanssky.fandom.com/wiki/Dreams_of_the_Deep)
 * Starbirth ______________ Not Started
+* The Settlers ___ Not Started
 * A Trace of Metal ______ Not Started
 * Under A Rebel Star ___ Not Started
+* There are many more missions and quests that were never done. Additionally, this save file is an offline project, so no multiplayer or expeditions were ever undertaken.
 
 ### Steps
 
 1.  Back up your save folder
-2.  Start a new normal mode game
-3.  As soon as it loads and you gather ferrite dust to fix your scanner, head to the crashed ship. Get in ond out of your ship to save
+2.  Start a new custom save
+3.  As soon as it loads, get in ond out of your ship or give the game long enough to make an auto-save
 4.  Quit the game
 5.  Open NMSSaveEditor and open the newly created save - Make sure you are on the right one
 6.  Click Edit Raw JSON
@@ -55,8 +57,7 @@ If you are a long-time player or chronic restarter (like me), this will help you
 
 ### Note:
 * You have a freighter in orbit with a couple more ships in it. You can reset it to your liking.
-* You have 2 multitools.
-* If you want to reset the in-game playtime to 0:00 to give yourself a better idea of your own progress from this point on though the game, you can do it in the save editor. Open the Raw JSON editor and search for the line TotalPlayTime. Changing the number to something like 45 will show in game as starting at 0:00 - Do this at your own risk though.
+
 
 
 ### Screenshot:
