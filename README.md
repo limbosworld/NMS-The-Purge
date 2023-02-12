@@ -1,6 +1,6 @@
 # The Purge
 
-A custom mode save game file for players who want to skip most of the main missions which have been around (unchanged) for years and get straight to exploring, building and/or doing other quests like A Trace of Metal, Under a Rebel Star or the many other new missions and expeditions.
+A custom mode save game file for players who want to skip most of the main missions which have been around (mainly unchanged) for years and get straight to exploring, building and/or doing other quests like A Trace of Metal, Under a Rebel Star or the many other new quests and expeditions.
 
 ## Description
 
@@ -21,7 +21,7 @@ If you are a long-time player or chronic restarter (like me), this will help you
 * The First Traveller [Completed](https://nomanssky.fandom.com/wiki/The_First_Traveller)
 * Patterns in Time [Completed](https://nomanssky.fandom.com/wiki/Patterns_in_Time)
 * 16 / 16 [Completed](https://nomanssky.fandom.com/wiki/16_/_16)
-* The Purge [Completed when you pick a new galaxy](https://nomanssky.fandom.com/wiki/The_Purge)
+* The Purge [Will be completed when you pick a new galaxy](https://nomanssky.fandom.com/wiki/The_Purge)
 
 ### Secondary missions
 
@@ -56,7 +56,7 @@ If you are a long-time player or chronic restarter (like me), this will help you
 #### 
 
 ### Note:
-* You have a freighter in orbit with a couple more ships in it. You can reset it to your liking.
+* This was done with NMSSaveEditor. I would be happy to post another save editor's file on Github if someone want's to convert it for me.
 
 
 
