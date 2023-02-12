@@ -1,6 +1,6 @@
 # The Purge
 
-A save game file for normal mode players who want to skip most of the main missions which have been around (unchanged) for years and get straight to exploring, building and/or doing other quests like A Trace of Metal, Under a Rebel Star or other quests.
+A custom mode save game file for players who want to skip most of the main missions which have been around (unchanged) for years and get straight to exploring, building and/or doing other quests like A Trace of Metal, Under a Rebel Star or other quests.
 
 ## Description
 
@@ -14,7 +14,7 @@ If you are a long-time player or chronic restarter (like me), this will help you
 ### Primary missions
 
 * Awakenings [Completed](https://nomanssky.fandom.com/wiki/Awakenings)
-* The Atlas Path and collecting the seeds was not started because the mission tends to repeat itself even after you complete it. You can read about it in the [Wiki](https://nomanssky.fandom.com/wiki/The_Atlas_Path)
+* The Atlas Path [Completed] All seeds were collected and a new star was birthed. This mission tends to repeat itself even after you complete it though. You can read about it in the [Wiki](https://nomanssky.fandom.com/wiki/The_Atlas_Path)
 * Alone Amidst the Stars [Completed](https://nomanssky.fandom.com/wiki/Alone_Amidst_the_Stars)
 * Ghosts in the Machine [Completed](https://nomanssky.fandom.com/wiki/Ghosts_in_the_Machine)
 * A Leap in the Dark [Completed](https://nomanssky.fandom.com/wiki/A_Leap_in_the_Dark)
