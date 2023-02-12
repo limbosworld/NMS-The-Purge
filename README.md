@@ -26,7 +26,7 @@ If you are a long-time player or chronic restarter (like me), this will help you
 ### Secondary missions
 
 * Expanding the Base
-    * Base Computer Archives [It Never Ends](https://nomanssky.fandom.com/wiki/Base_Computer_Archives) .. This still seems to be bugged, so I try no to go too far with it.
+    * Base Computer Archives [It Never Ends](https://nomanssky.fandom.com/wiki/Base_Computer_Archives) .. This still seems to be bugged, so I try not to go too far with it.
     * Scientific Research [Completed](https://nomanssky.fandom.com/wiki/Scientific_Research)
     * Weapons Research [Completed](https://nomanssky.fandom.com/wiki/Weapons_Research)
     * Exocraft Research [Completed](https://nomanssky.fandom.com/wiki/Exocraft_Technician)
@@ -49,7 +49,7 @@ If you are a long-time player or chronic restarter (like me), this will help you
 7.  Select all code and delete it
 8.  Open the JSON file you downloaded with a suitable editor like Sublime Text or Notepad++ 
 9.  Copy and paste all code into the Raw JSON editor.
-10. Close the raw JSON window and save. Also, Click save file from the menu before closing the save editor.
+10. Close the raw JSON window and save. Also, click save file from the menu before closing the save editor.
 
 #### When you start your new save, you will now be on a very nice paradise planet with blue grass, sky and water. The portal will be flaged with a red final interface marker. Next to a portal is a simple base. When you activate the portal and enter, you will soon be in front of the Atlas and be able to pick your new galaxy. Put down a base computer and teleporter somewhere in your new galaxy so you can travel back and forth between Euclid and your new galaxy.
 
