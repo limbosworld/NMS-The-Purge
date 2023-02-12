@@ -1,6 +1,6 @@
 # The Purge
 
-A custom mode save game file for players who want to skip most of the main missions which have been around (unchanged) for years and get straight to exploring, building and/or doing other quests like A Trace of Metal, Under a Rebel Star or other quests.
+A custom mode save game file for players who want to skip most of the main missions which have been around (unchanged) for years and get straight to exploring, building and/or doing other quests like A Trace of Metal, Under a Rebel Star or the many other new missions and expeditions.
 
 ## Description
 
@@ -14,7 +14,7 @@ If you are a long-time player or chronic restarter (like me), this will help you
 ### Primary missions
 
 * Awakenings [Completed](https://nomanssky.fandom.com/wiki/Awakenings)
-* The Atlas Path [Completed](https://nomanssky.fandom.com/wiki/The_Atlas_Path#The_Final_Atlas_Interface) ... or rather, the part where you collect all the seeds and birth a new star. This mission tends to repeat itself even after you complete it though. You can read about it in the [Wiki](https://nomanssky.fandom.com/wiki/The_Atlas_Path#Completion_and_Mission_Log)
+* The Atlas Path [Completed](https://nomanssky.fandom.com/wiki/The_Atlas_Path#The_Final_Atlas_Interface) ... or rather, the part where you collect all the seeds and birth a new star was completed. This mission tends to repeat itself even after you complete it though. You can read about it in the [Wiki](https://nomanssky.fandom.com/wiki/The_Atlas_Path#Completion_and_Mission_Log)
 * Alone Amidst the Stars [Completed](https://nomanssky.fandom.com/wiki/Alone_Amidst_the_Stars)
 * Ghosts in the Machine [Completed](https://nomanssky.fandom.com/wiki/Ghosts_in_the_Machine)
 * A Leap in the Dark [Completed](https://nomanssky.fandom.com/wiki/A_Leap_in_the_Dark)
@@ -26,14 +26,14 @@ If you are a long-time player or chronic restarter (like me), this will help you
 ### Secondary missions
 
 * Expanding the Base
-    * Base Computer Archives [It Never Ends](https://nomanssky.fandom.com/wiki/Base_Computer_Archives)
+    * Base Computer Archives [It Never Ends](https://nomanssky.fandom.com/wiki/Base_Computer_Archives) .. This still seems to be bugged, so I try no to go too far with it.
     * Scientific Research [Completed](https://nomanssky.fandom.com/wiki/Scientific_Research)
     * Weapons Research [Completed](https://nomanssky.fandom.com/wiki/Weapons_Research)
     * Exocraft Research [Completed](https://nomanssky.fandom.com/wiki/Exocraft_Technician)
     * Agricultural Research [Completed](https://nomanssky.fandom.com/wiki/Agricultural_Research)
 * Dreams of the Deep [Completed](https://nomanssky.fandom.com/wiki/Dreams_of_the_Deep)
 * Starbirth ______________ Not Started
-* The Settlers ___ Not Started
+* The Settlers ___________ Not Started
 * A Trace of Metal ______ Not Started
 * Under A Rebel Star ___ Not Started
 * There are many more missions and quests that were never done. Additionally, this save file is an offline project, so no multiplayer or expeditions were ever undertaken.
