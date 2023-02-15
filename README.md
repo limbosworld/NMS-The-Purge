@@ -5,7 +5,7 @@ A custom mode save game file for players who want to skip most of the main missi
 ## Description
 
 If you are a long-time player or chronic restarter (like me), this will help you each time you want to start a new save. When you load this save, you will be about 5 minutes away from completing The Purge which is the last of the main storyline missions.
-#### This quick start save is also great to use for testing and tinkering without having to listen to Artemis, Apollo or Null pinging you in the background. Hack away at the save file and if something goes wrong, just re-paste this JSON and start over.
+#### This quick start save is also great to use for testing and tinkering without having to listen to Artemis, Apollo or -null- pinging you in the background. Hack away at the save file and if something goes wrong, just re-paste this JSON and start over.
 
 ##     
 
@@ -49,14 +49,14 @@ If you are a long-time player or chronic restarter (like me), this will help you
 7.  Select all code and delete it
 8.  Open the JSON file you downloaded with a suitable editor like Sublime Text or Notepad++ 
 9.  Copy and paste all code into the Raw JSON editor.
-10. Close the raw JSON window and save. Also, click save file from the menu before closing the save editor.
+10. Close the raw JSON window and save. Also, click save changes before closing the save editor.
 
-#### When you start your new save, you will now be on a very nice paradise planet with blue grass, sky and water. The portal will be flaged with a red final interface marker. Next to a portal is a simple base. When you activate the portal and enter, you will soon be in front of the Atlas and be able to pick your new galaxy. Put down a base computer and teleporter somewhere in your new galaxy so you can travel back and forth between Euclid and your new galaxy.
+#### When you start your new save, you will now be on a paradise planet with a small base. The portal will be flaged with a red final interface marker on another planet in the same system. Go into space and you will see it flagged. When you activate the portal and enter, you will soon be in front of the Atlas and be able to pick your new galaxy. Put down a base computer and teleporter somewhere in your new galaxy so you can travel back and forth between Euclid and your new galaxy.
 
 #### 
 
 ### Note:
-* This was done with NMSSaveEditor. I would be happy to post another save editor's file on Github if someone want's to convert it for me.
+* This was done with NMSSaveEditor (goatfungus). I would be happy to post another save editor's file on Github if someone want's to convert it for me.
 
 
 
