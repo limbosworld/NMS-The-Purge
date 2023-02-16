@@ -71,6 +71,6 @@ You don't have to complete The Purge right away. Now that it's flagged, it will 
 
 ### Euclid portal base:
 
-![alt text](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/main/Final-Interface.jpg)
+
 
 
