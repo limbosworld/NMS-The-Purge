@@ -51,12 +51,21 @@ If you are a long-time player or chronic restarter (like me), this will help you
 9.  Copy and paste all code into the Raw JSON editor.
 10. Close the raw JSON window and save. Also, click save changes before closing the save editor.
 
-#### When you start your new save, you will now be on a paradise planet with a small base. The portal will be flaged with a red final interface marker on another planet in the same system. Go into space and you will see it flagged. When you activate the portal and enter, you will soon be in front of the Atlas and be able to pick your new galaxy. Put down a base computer and teleporter somewhere in your new galaxy so you can travel back and forth between Euclid and your new galaxy.
+#### When you start your new save, you will now be on a paradise planet with a small base. A portal will be flaged with a red final interface marker on another planet in your system. Go into space and you will see it. When you activate the portal and enter, you will soon be in front of the Atlas and be able to pick your new galaxy. Put down a base computer and teleporter somewhere in your new galaxy so you can travel back and forth between Euclid and your new galaxy.
+
+You don't have to complete The Purge right away. Now that it's flagged, it will just remain in your log until you are ready do so.
 
 #### 
 
 ### Note:
-* This was done with NMSSaveEditor (goatfungus). I would be happy to post another save editor's file on Github if someone want's to convert it for me.
+* This was done NMS 4.08 and with the help of NMSSaveEditor 1.11.3 (the goatfungus one). I would be happy to post another save editor's file on Github if someone want's to convert it for me.
+
+* There is about 6 hours of playtime which was mostlty spent warping back and forth between planets, clicking countless dialog boxes and performing all those tasks the game sends you on. It wasn't a lot of fun, it just takes time getting through it.
+
+* Don't forget to change your game mode or difficulty settings to what you like. Time to get a good weapon, ship and freighter.
+### Happy hunting travler!
+
+
 
 
 
