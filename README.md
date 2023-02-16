@@ -60,7 +60,7 @@ You don't have to complete The Purge right away. Now that it's flagged, it will 
 ### Note:
 * This was done on NMS 4.08 and with the help of NMSSaveEditor 1.11.3 (the goatfungus one). I would be happy to post another save editor's file on Github if someone want's to convert it for me.
 
-* There is about 6 hours of playtime which was mostlty spent warping back and forth between planets, clicking countless dialog boxes and performing all those tasks the game sends you on. It wasn't a lot of fun, it just takes time getting through it.
+* There is almost 6 hours of playtime which was mostlty spent warping back and forth between planets, clicking countless dialog boxes and performing all those tasks the game sends you on. It's not hard doing those missions (especially in creative mode) ... it just takes time getting through it all.
 
 * Don't forget to change your game mode or difficulty settings to what you like... then get a better multi-tool, ship and freighter.
 #### Happy hunting travler!
