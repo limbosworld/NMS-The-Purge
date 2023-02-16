@@ -73,7 +73,4 @@ You don't have to complete The Purge right away. Now that it's flagged, it will 
 
 ![alt text](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/main/Final-Interface.jpg)
 
-### The final interface:
-
-![alt text](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/main/Final-Interface.jpg)
 
