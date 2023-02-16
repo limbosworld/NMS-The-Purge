@@ -26,7 +26,7 @@ If you are a long-time player or chronic restarter (like me), this will help you
 ### Secondary missions
 
 * Expanding the Base
-    * Base Computer Archives [It Never Ends](https://nomanssky.fandom.com/wiki/Base_Computer_Archives) .. This still seems to be bugged, so I try not to go too far with it.
+    * Base Computer Archives [It Never Ends](https://nomanssky.fandom.com/wiki/Base_Computer_Archives) .. There still seems to be bug that puts you in an endless loop, so I decided not to try to do anything with this.
     * Scientific Research [Completed](https://nomanssky.fandom.com/wiki/Scientific_Research)
     * Weapons Research [Completed](https://nomanssky.fandom.com/wiki/Weapons_Research)
     * Exocraft Research [Completed](https://nomanssky.fandom.com/wiki/Exocraft_Technician)
@@ -58,7 +58,7 @@ You don't have to complete The Purge right away. Now that it's flagged, it will 
 #### 
 
 ### Note:
-* This was done NMS 4.08 and with the help of NMSSaveEditor 1.11.3 (the goatfungus one). I would be happy to post another save editor's file on Github if someone want's to convert it for me.
+* This was done on NMS 4.08 and with the help of NMSSaveEditor 1.11.3 (the goatfungus one). I would be happy to post another save editor's file on Github if someone want's to convert it for me.
 
 * There is about 6 hours of playtime which was mostlty spent warping back and forth between planets, clicking countless dialog boxes and performing all those tasks the game sends you on. It wasn't a lot of fun, it just takes time getting through it.
 
