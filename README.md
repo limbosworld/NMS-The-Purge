@@ -62,14 +62,18 @@ You don't have to complete The Purge right away. Now that it's flagged, it will 
 
 * There is about 6 hours of playtime which was mostlty spent warping back and forth between planets, clicking countless dialog boxes and performing all those tasks the game sends you on. It wasn't a lot of fun, it just takes time getting through it.
 
-* Don't forget to change your game mode or difficulty settings to what you like. Time to get a good weapon, ship and freighter.
-### Happy hunting travler!
+* Don't forget to change your game mode or difficulty settings to what you like... then get a better multi-tool, ship and freighter.
+#### Happy hunting travler!
 
 
 
 
 
-### Screenshot:
+### Euclid portal base:
+
+![alt text](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/main/Final-Interface.jpg)
+
+### The final interface:
 
 ![alt text](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/main/Final-Interface.jpg)
 
