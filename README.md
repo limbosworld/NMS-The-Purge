@@ -16,29 +16,28 @@ This save takes us to just after the Autophage Mission. The Purge has been compl
 
 ### Euclid portal base:
 
-![Euclid Base](https://seedgenerator.org/images/euclid.jpg)
+![Euclid Base](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/refs/heads/main/euclid.jpg)
 
 ### Euclid Settlement and Base:
 
 A base with a landing pad and it's own admin terminal sits just above the settlement. You don't even have to go into the overseer's office anymore.
 
-![Settlement](https://seedgenerator.org/images/euclid-sett.jpg)
+![Settlement](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/refs/heads/main/euclid-sett.jpg)
 
 ### Eissentam Portal Base:
 
-![alt text](https://seedgenerator.org/images/eissentam.jpg)
+![alt text](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/refs/heads/main/eissentam.jpg)
 <br>
 <br>
 <br>
 
 * * *
 
-### The Purge
+### The Purge &darr;
 ... or just before it. All you have to do is activate the final interface. You can still get this save file (thepurge.zip) here on github  [here](https://github.com/limbosworld/NMS-The-Purge). However, it's an older save file. Posted in early 2023 when Waypoint came out.
 <br>
 <br>
 > **WARNING**: The description and save file mentioned below was created with NMS 4.08 - It may be fine, but just wanted to restate that it's an older file.
-<br>
 <br>
 <br>
 
