@@ -1,4 +1,49 @@
-# The Purge
+A Collection of JSON Save Files to use in NMSSE
+===============================================
+_UPDATED: October 2024 with NMS 5.22 and last edited with the help of NMSSaveEditor 1.17.7_<br>
+<br>
+These save files are for players who want to skip most of the main missions which have been around (mainly unchanged) for years and get straight to exploring, building or doing other missions, quests or expeditions. If you are a long-time player or chronic restarter (like me), this will help each time you want to start a new save. It's great for testing and tinkering around with without having to listen to Artemis, Apollo or -null- pinging you in the background.
+
+### Beyond The Purge
+This save has progressed to just before the Autophage Questline can start. The Purge has been completed. You can download the zip file here on Github, or follow [this link](https://seedgenerator.org/beyond-the-purge.html) to my website for the zip file as well as details with photos of what's included in the save file.
+
+* * *
+
+### Robots
+This save takes us to just after the Autophage Mission. The Purge has been completed and a portal bases have been set up in Euclid and Eissentam. You can download the zip file here on Github, or follow [this link](https://seedgenerator.org/hello-robots.html) to my website for the zip file as well as details with photos of what's included in the save file.
+
+* * *
+
+### Euclid portal base:
+
+![Euclid Base](https://seedgenerator.org/images/euclid.jpg)
+
+### Euclid Settlement and Base:
+
+A base with a landing pad and it's own admin terminal sits just above the settlement. You don't even have to go into the overseer's office anymore.
+
+![Settlement](https://seedgenerator.org/images/euclid-sett.jpg)
+
+### Eissentam Portal Base:
+
+![alt text](https://seedgenerator.org/images/eissentam.jpg)
+<br>
+<br>
+<br>
+
+* * *
+
+### The Purge
+... or just before it. All you have to do is activate the final interface. You can still get this save file (thepurge.zip) here on github  [here](https://github.com/limbosworld/NMS-The-Purge). However, it's an older save file. Posted in early 2023 when Waypoint came out.
+<br>
+<br>
+> **WARNING**: The description and save file mentioned below was created with NMS 4.08 - It may be fine, but just wanted to restate that it's an older file.
+<br>
+<br>
+<br>
+
+
+## The Purge
 
 A custom mode save game file for players who want to skip most of the main missions which have been around (mainly unchanged) for years and get straight to exploring, building and/or doing other quests like A Trace of Metal, Under a Rebel Star or the many other new quests and expeditions.
 
@@ -58,7 +103,7 @@ You don't have to complete The Purge right away. Now that it's flagged, it will 
 #### 
 
 ### Note:
-* This was done on NMS 4.08 and with the help of NMSSaveEditor 1.11.3 (the goatfungus one). I would be happy to post another save editor's file on Github if someone want's to convert it for me.
+* This was done on NMS 4.08 and with the help of NMSSaveEditor 1.11.3 (the goatfungus one).
 
 * There is almost 6 hours of playtime which was mostlty spent warping back and forth between planets, clicking countless dialog boxes and performing all those tasks the game sends you on. It's not hard doing those missions (especially in creative mode) ... it just takes time getting through it all.
 
