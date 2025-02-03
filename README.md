@@ -1,8 +1,13 @@
 A Collection of JSON Save Files to use in NMSSE
 ===============================================
-_UPDATED: October 2024 with NMS 5.22 and last edited with the help of NMSSaveEditor 1.17.7_<br>
-<br>
-These save files are for players who want to skip most of the main missions which have been around (mainly unchanged) for years and get straight to exploring, building or doing other missions, quests or expeditions. If you are a long-time player or chronic restarter (like me), this will help each time you want to start a new save. It's great for testing and tinkering around with without having to listen to Artemis, Apollo or -null- pinging you in the background.
+
+
+
+![alt text](https://raw.githubusercontent.com/limbosworld/NMS-The-Purge/refs/heads/main/worlds-purple.jpg)
+
+
+  
+* * *
 
 ### Beyond The Purge
 This save has progressed to just before the Autophage Questline can start. The Purge has been completed. You can download the zip file here on Github, or follow [this link](https://seedgenerator.org/beyond-the-purge.html) to my website for the zip file as well as details with photos of what's included in the save file.
