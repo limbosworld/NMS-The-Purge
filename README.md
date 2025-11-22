@@ -10,12 +10,12 @@ A Collection of JSON Save Files to use in NMSSE
 * * *
 
 ### Beyond The Purge
-This save has progressed to just before the Autophage Questline can start. The Purge has been completed. You can download the zip file here on Github, or follow [this link](https://seedgenerator.org/beyond-the-purge.html) to my website for the zip file as well as details with photos of what's included in the save file.
+This save has progressed to just before the Autophage Questline can start. The Purge has been completed. Download the file called BeyondThePurge.zip
 
 * * *
 
 ### Robots
-This save takes us to just after the Autophage Mission. The Purge has been completed and a portal bases have been set up in Euclid and Eissentam. You can download the zip file here on Github, or follow [this link](https://seedgenerator.org/hello-robots.html) to my website for the zip file as well as details with photos of what's included in the save file.
+This save takes us to just after the Autophage Mission. The Purge has been completed and a portal bases have been set up in Euclid and Eissentam. Download the file called Robots.zip
 
 * * *
 
